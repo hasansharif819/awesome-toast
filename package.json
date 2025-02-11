@@ -1,0 +1,26 @@
+{
+  "name": "awesome-toast",
+  "version": "1.0.0",
+  "description": "A lightweight toast notification for JavaScript, TypeScript, React, Vue, and Angular",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/awesome-toast.git"
+  },
+  "author": "Sharif Hasan",
+  "license": "MIT",
+  "keywords": [
+    "toast",
+    "notification",
+    "react",
+    "vue",
+    "angular",
+    "typescript",
+    "javascript"
+  ]
+}
