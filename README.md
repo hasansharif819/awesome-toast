@@ -5,7 +5,7 @@ A lightweight, customizable toast notification for JavaScript, TypeScript, React
 ## Installation
 
 ```sh
-# npm install awesome-toast
+# npm install awesome-universal-toast
 
 Usage
 js
